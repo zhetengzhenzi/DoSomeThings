@@ -1,0 +1,6 @@
+framework module DoSomeThings {
+  umbrella header "DoSomeThings-umbrella.h"
+
+  export *
+  module * { export * }
+}

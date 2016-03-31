@@ -1,0 +1,14 @@
+PODS:
+  - DoSomeThings (0.1.0)
+
+DEPENDENCIES:
+  - DoSomeThings (from `../`)
+
+EXTERNAL SOURCES:
+  DoSomeThings:
+    :path: ../
+
+SPEC CHECKSUMS:
+  DoSomeThings: 476ab86ad3fe82bbb39714603fa5716422fedaec
+
+COCOAPODS: 0.39.0
