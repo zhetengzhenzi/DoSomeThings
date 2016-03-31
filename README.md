@@ -1,4 +1,5 @@
 # DoSomeThings
+<<<<<<< HEAD
 
 [![CI Status](http://img.shields.io/travis/liuyushuang@duia.com/DoSomeThings.svg?style=flat)](https://travis-ci.org/liuyushuang@duia.com/DoSomeThings)
 [![Version](https://img.shields.io/cocoapods/v/DoSomeThings.svg?style=flat)](http://cocoapods.org/pods/DoSomeThings)
@@ -27,3 +28,6 @@ liuyushuang@duia.com, liuyushuang@duia.com
 ## License
 
 DoSomeThings is available under the MIT license. See the LICENSE file for more info.
+=======
+Do some myself things 
+>>>>>>> 866c34b28dc7171d64c11aa760101f70d460f42b
